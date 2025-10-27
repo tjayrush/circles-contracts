@@ -37,7 +37,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://handbook.joincircles.net">
+    <a href="https://handbook.joincircles.net/docs/developers/whitepaper">
       Whitepaper
     </a>
     <span> | </span>
